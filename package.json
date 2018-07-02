@@ -19,6 +19,6 @@
   "dependencies": {
     "grpc": "*",
     "protobufjs": "^6.8.6",
-    "google-protobuf": "*"
+    "google-protobuf": "^3.6.0"
   }
 }
