@@ -18,6 +18,7 @@
   "homepage": "https://github.com/huangts/node-grpc-demo#readme",
   "dependencies": {
     "grpc": "*",
-    "protobufjs": "^6.8.6"
+    "protobufjs": "^6.8.6",
+    "google-protobuf": "*"
   }
 }
