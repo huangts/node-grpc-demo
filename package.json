@@ -1,0 +1,23 @@
+{
+  "name": "grpc-demo",
+  "version": "1.0.0",
+  "description": "test grpc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangts/node-grpc-demo.git"
+  },
+  "author": "tims wong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huangts/node-grpc-demo/issues"
+  },
+  "homepage": "https://github.com/huangts/node-grpc-demo#readme",
+  "dependencies": {
+    "grpc": "*",
+    "protobufjs": "^6.8.6"
+  }
+}
